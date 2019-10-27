@@ -1,0 +1,6 @@
+C:\repo\personal\Arrays\Algorithms and Data Structures\bin\Debug\Algorithms and Data Structures.exe.config
+C:\repo\personal\Arrays\Algorithms and Data Structures\bin\Debug\Algorithms and Data Structures.exe
+C:\repo\personal\Arrays\Algorithms and Data Structures\bin\Debug\Algorithms and Data Structures.pdb
+C:\repo\personal\Arrays\Algorithms and Data Structures\obj\Debug\Algorithms and Data Structures.exe
+C:\repo\personal\Arrays\Algorithms and Data Structures\obj\Debug\Algorithms and Data Structures.pdb
+C:\repo\personal\Arrays\Algorithms and Data Structures\obj\Debug\Algorithms and Data Structures.csprojAssemblyReference.cache
